@@ -127,6 +127,11 @@ section {
   font-weight: 500;
 }
 
+.info-box h1 span {
+  white-space: nowrap;
+}
+
+
 .info-box h3 {
   font-size: 2em;
   font-weight: 400;
@@ -478,3 +483,4 @@ footer {
     padding: 3em 10%;
   }
 }
+
