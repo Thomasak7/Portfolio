@@ -158,7 +158,7 @@ section {
 }
 
 ::-webkit-scrollbar-thumb {
-  background: linear-gradient(to bottom, #6cff52, #3ec5ff);
+  background: linear-gradient(to bottom, #ffffff, #81dbff);
 }
 
 /* About */
@@ -483,4 +483,5 @@ footer {
     padding: 3em 10%;
   }
 }
+
 
