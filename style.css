@@ -168,7 +168,7 @@ section {
   justify-content: center;
   gap: 5em;
   flex-direction: row; /* Ligne par défaut pour desktop */
-  background-color: var(--second-background);
+  background-color: rgb(49 49 49);(--second-background);
 }
 
 #about img {
@@ -483,6 +483,7 @@ footer {
     padding: 3em 10%;
   }
 }
+
 
 
 
