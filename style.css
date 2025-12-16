@@ -81,7 +81,7 @@ nav ul a:hover {
 }
 
 span {
-  background: linear-gradient(to right, #a5a5a5, #3ec5ff);
+  background: linear-gradient(to right, #ffffff, ##6b6b6b);
   background-clip: text;
   color: transparent;
 }
@@ -483,5 +483,6 @@ footer {
     padding: 3em 10%;
   }
 }
+
 
 
