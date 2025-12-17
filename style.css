@@ -166,16 +166,15 @@ section {
   align-items: center;
   justify-content: center;
   gap: 5em;
-  flex-direction: row;
+  flex-direction: row; /* ligne sur PC */
+  flex-wrap: nowrap;   /* empêche de passer à la ligne */
   background-color: rgb(49 49 49);
-  flex-wrap: wrap;
 }
 
 #about img {
-  width: 30vw;
-  max-width: 400px;
+  width: 35vw;    /* largeur plus grande */
+  max-width: 450px;
   border-radius: 1em;
-}
 
 .about-box {
   display: flex;
@@ -480,3 +479,4 @@ footer {
     padding: 3em 10%;
   }
 }
+
